@@ -6,3 +6,6 @@ average_number_of_tacos = 3.0
 number_of_people = 7
 is_hungry = true
 likes_beets = false
+mexican_food = ["tacos", "enchiladas", "gorditas", "nachos"]
+kinds_of_apples = "granny smith", "gala", "honey crisp"]
+first_names = ["John", "Jerry", "Jesse", "Jeremey"]
